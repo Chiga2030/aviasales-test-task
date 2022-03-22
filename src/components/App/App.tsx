@@ -1,7 +1,7 @@
-const App = () => (
-  <div className="App">
+const App = (): JSX.Element => (
+  <>
     hello world
-  </div>
+  </>
 );
 
 

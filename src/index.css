@@ -1,3 +1,9 @@
 :root {
   --light-blue-color: #f3f7fa;
 }
+
+html,
+body {
+  background-color: var(--light-blue-color);
+  margin: 0;
+}
