@@ -4,7 +4,7 @@ import {
   FC,
 } from 'react';
 
-import Text, { TextNotation, TextVariant, } from '../common/Text';
+import Text, { TextNotation, TextVariant, } from '../common/Text/Text';
 
 
 const SideBar: FC = () => (

@@ -1,8 +1,8 @@
 import { FC, } from 'react';
 
-import styles from '../index.module.css';
+import styles from '../Text.module.css';
 import clsx from 'clsx';
-import { TextNotation, } from '..';
+import { TextNotation, } from '../Text';
 
 interface IHeading {
   text: string;

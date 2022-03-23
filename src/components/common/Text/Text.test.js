@@ -1,5 +1,5 @@
 import { render } from '@testing-library/react';
-import Text, { TextVariant, TextNotation } from './';
+import Text, { TextVariant, TextNotation } from './Text';
 
 describe('В компоненте Text', () => {
   test('без пропа varian, компонент не отрисуется', () => {
