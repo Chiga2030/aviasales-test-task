@@ -1,6 +1,8 @@
-const App = (): JSX.Element => (
+import Header from '../Header/Header';
+
+const App: React.FC = (): JSX.Element => (
   <>
-    hello world
+    <Header />
   </>
 );
 
