@@ -2,6 +2,10 @@
   background-color: var(--background-color-light);
   border-radius: .4rem;
   box-shadow: var(--shadow);
-  padding: 1.25rem;
+  padding: .625rem 0;
   width: 14.5rem;
+}
+
+.header {
+  padding: .625rem 1.25rem;
 }

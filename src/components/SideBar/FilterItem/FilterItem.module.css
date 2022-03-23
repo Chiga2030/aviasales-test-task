@@ -1,0 +1,12 @@
+.filterItem {
+  padding: 0 1.25rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  color: var(--text-color-grey);
+  font-size: .8125rem;
+}
+
+.filterItem:hover {
+  background-color: var(--light-blue-color);
+}

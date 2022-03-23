@@ -1,5 +1,6 @@
 :root {
-  --light-blue-color: #f3f7fa;
+  --extra-light-blue-color: #f3f7fa;
+  --light-blue-color: #f1fcff;
   --background-color-light: #fff;
   --text-color-grey: #4a4a4a;
   --shadow: 0 .125rem .5rem #0000001a;
@@ -7,7 +8,7 @@
 
 html,
 body {
-  background-color: var(--light-blue-color);
+  background-color: var(--extra-light-blue-color);
   font-family: 'Open Sans', sans-serif;
   margin: 0;
 }
