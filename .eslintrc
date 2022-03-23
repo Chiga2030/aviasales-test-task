@@ -4,8 +4,10 @@
     "node": true
   },
   "plugins": [
-    "import"
+    "import",
+    "@typescript-eslint"
   ],
+  "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 6,
     "sourceType": "module",
