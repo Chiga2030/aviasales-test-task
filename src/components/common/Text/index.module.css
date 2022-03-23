@@ -1,0 +1,9 @@
+.baseText {
+  color: var(--text-color-grey);
+  font-weight: 600;
+  font-size: .75rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
