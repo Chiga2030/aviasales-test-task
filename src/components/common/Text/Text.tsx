@@ -1,6 +1,4 @@
-import {
-  FC,
-} from 'react';
+import { FC, } from 'react';
 import { Heading2, } from './Heading2/Heading2';
 
 

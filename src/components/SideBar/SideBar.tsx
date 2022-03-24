@@ -19,11 +19,13 @@ const SideBar: FC = () => (
       </Text>
     </header>
 
-    <FilterItem value='Все' />
-    <FilterItem value='Без пересадок' />
-    <FilterItem value='1 пересадка' />
-    <FilterItem value='2 пересадки' />
-    <FilterItem value='3 пересадки' />
+    <form>
+      <FilterItem isChecked value='Все' />
+      <FilterItem isChecked value='Без пересадок' />
+      <FilterItem isChecked value='1 пересадка' />
+      <FilterItem isChecked value='2 пересадки' />
+      <FilterItem isChecked value='3 пересадки' />
+    </form>
   </aside>
 );
 

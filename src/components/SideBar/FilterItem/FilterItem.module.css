@@ -10,3 +10,7 @@
 .filterItem:hover {
   background-color: var(--light-blue-color);
 }
+
+.checkbox {
+  margin-right: .625rem;
+}
